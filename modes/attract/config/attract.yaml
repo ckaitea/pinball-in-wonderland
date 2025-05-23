@@ -1,0 +1,10 @@
+#config_version=6
+#attract mode config file
+
+
+slide_player:
+  mode_attract_started: attract
+
+  mode_attract_stopping:
+    attract:
+        action: remove

@@ -1,0 +1,98 @@
+2025-03-15 11:37:01,969 : INFO : root : Loading config.
+2025-03-15 11:37:01,976 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-03-15 11:37:01,977 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\5682b9bdeb2b9ad8a31c13560e038609.mpf_cache
+2025-03-15 11:37:02,277 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\8422c6572f827355f8aade1949d04025.mpf_cache
+2025-03-15 11:37:02,279 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\1c0e7e9816717d8e62c4728dfe372999.mpf_cache
+2025-03-15 11:37:02,282 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\e3e8065d662ad307fa9574659e7e4e8e.mpf_cache
+2025-03-15 11:37:02,284 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\8422c6572f827355f8aade1949d04025.mpf_cache
+2025-03-15 11:37:02,286 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev6
+2025-03-15 11:37:02,286 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-03-15-11-37-01-mpf-BERNIE.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\User\\Desktop\\fast_homebrew_godot_v2\\fast_homebrew_godot_v2\\logs\\2025-03-15-11-37-01-mpf-BERNIE.log'}
+2025-03-15 11:37:02,287 : INFO : Machine : MPF path: C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf
+2025-03-15 11:37:02,287 : INFO : Machine : Machine path: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2
+2025-03-15 11:37:02,287 : INFO : Machine : Platform: win32
+2025-03-15 11:37:02,287 : INFO : Machine : Python executable location: C:\Users\User\AppData\Local\Programs\Python\Python312\python.exe
+2025-03-15 11:37:02,287 : INFO : Machine : Python version: 3.12.3 (64-bit)
+2025-03-15 11:37:02,291 : INFO : Machine : Initializing MPF...
+2025-03-15 11:37:02,565 : INFO : FAST : Auto-detecting ports for the following connections: ['net']
+2025-03-15 11:37:02,612 : INFO : FAST : Detected NET on port COM5
+2025-03-15 11:37:02,726 : INFO : FAST [NET] : Trying to connect to COM5 at 921600bps
+2025-03-15 11:37:02,733 : INFO : FAST [NET] : Connected to COM5 at 921600bps
+2025-03-15 11:37:02,739 : INFO : FAST [NET] : Connected to FP-CPU-2000 with firmware v02.26
+2025-03-15 11:37:02,771 : INFO : FAST [NET] : Registered I/O Board 0: Model: FP-I/O-3208, Firmware: 01.10, Switches: 32, Drivers: 8
+2025-03-15 11:37:02,787 : INFO : FAST [NET] : Registered I/O Board 1: Model: FP-I/O-3208, Firmware: 01.10, Switches: 32, Drivers: 8
+2025-03-15 11:37:02,788 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-03-15 11:37:02,855 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-03-15 11:37:02,856 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev6', 'prev_value': None, 'change': True}
+2025-03-15 11:37:02,856 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev6, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-03-15 11:37:02,857 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.3', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,123 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\User\\Desktop\\fast_homebrew_godot_v2\\fast_homebrew_godot_v2\\logs\\2025-03-15-11-37-01-mpf-BERNIE.log', 'prev_value': None, 'change': True}
+2025-03-15 11:37:03,124 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-03-15 11:37:03,186 : ERROR : asyncio : Task exception was never retrieved
+future: <Task finished name='Task-14' coro=<SystemWideDevice.device_added_system_wide() done, defined at C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\core\system_wide_device.py:15> exception=AssertionError('Failed to configure driver c_trough_eject_coil in platform. See error above')>
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 338, in _parse_driver_number
+    board = self.io_boards_by_name[board_str]
+            ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: '3208'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\devices\driver.py", line 118, in _initialize
+    self.hw_driver = self.platform.configure_driver(config, self.config['number'], platform_settings)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 387, in configure_driver
+    index = self._parse_driver_number(number)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 340, in _parse_driver_number
+    raise AssertionError(f"I/O Board {board_str} does not exist for driver {number}")
+AssertionError: I/O Board 3208 does not exist for driver 3208-0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\core\system_wide_device.py", line 17, in device_added_system_wide
+    await self._initialize()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\devices\driver.py", line 120, in _initialize
+    raise AssertionError("Failed to configure driver {} in platform. See error above".format(self.name)) from e
+AssertionError: Failed to configure driver c_trough_eject_coil in platform. See error above
+2025-03-15 11:37:03,192 : INFO : Machine : Starting the main run loop with active modes: []
+2025-03-15 11:37:03,193 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2025-03-15 11:37:03,194 : INFO : Machine : Shutting down...
+2025-03-15 11:37:03,194 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-03-15 11:37:04,304 : ERROR : Machine : Runtime Exception
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 338, in _parse_driver_number
+    board = self.io_boards_by_name[board_str]
+            ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^
+KeyError: '3208'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\devices\driver.py", line 118, in _initialize
+    self.hw_driver = self.platform.configure_driver(config, self.config['number'], platform_settings)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 387, in configure_driver
+    index = self._parse_driver_number(number)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\platforms\fast\fast.py", line 340, in _parse_driver_number
+    raise AssertionError(f"I/O Board {board_str} does not exist for driver {number}")
+AssertionError: I/O Board 3208 does not exist for driver 3208-0
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\core\machine.py", line 808, in _run_loop
+    raise self._exception['exception']
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\core\system_wide_device.py", line 17, in device_added_system_wide
+    await self._initialize()
+  File "C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\devices\driver.py", line 120, in _initialize
+    raise AssertionError("Failed to configure driver {} in platform. See error above".format(self.name)) from e
+AssertionError: Failed to configure driver c_trough_eject_coil in platform. See error above
+2025-03-15 11:37:04,308 : INFO : root : MPF run loop ended.

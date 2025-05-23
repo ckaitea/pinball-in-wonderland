@@ -1,0 +1,10 @@
+2025-03-14 19:54:13,705 : INFO : root : Loading config.
+2025-03-14 19:54:13,714 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-03-14 19:54:13,715 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\5682b9bdeb2b9ad8a31c13560e038609.mpf_cache
+2025-03-14 19:54:13,716 : WARNING : ConfigProcessor : Config file in cache changed: C:/Users/User/Desktop/fast_homebrew_godot_v2/fast_homebrew_godot_v2/config\coils.yaml
+2025-03-14 19:54:13,716 : INFO : ConfigProcessor : Loading config from file C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-03-14 19:54:13,750 : INFO : ConfigProcessor : Loading config: C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\mpfconfig.yaml
+2025-03-14 19:54:13,751 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\config.yaml.
+2025-03-14 19:54:13,755 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\config.yaml
+2025-03-14 19:54:13,756 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\lights.yaml
+2025-03-14 19:54:13,760 : INFO : ConfigProcessor : Loading config: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\coils.yaml

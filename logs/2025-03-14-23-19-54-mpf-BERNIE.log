@@ -1,0 +1,47 @@
+2025-03-14 23:19:54,576 : INFO : root : Loading config.
+2025-03-14 23:19:54,583 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-03-14 23:19:54,584 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\5682b9bdeb2b9ad8a31c13560e038609.mpf_cache
+2025-03-14 23:19:54,807 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\8422c6572f827355f8aade1949d04025.mpf_cache
+2025-03-14 23:19:54,808 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\1c0e7e9816717d8e62c4728dfe372999.mpf_cache
+2025-03-14 23:19:54,810 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\e3e8065d662ad307fa9574659e7e4e8e.mpf_cache
+2025-03-14 23:19:54,811 : INFO : ConfigProcessor : Loading config from cache: C:\Users\User\AppData\Local\Temp\8422c6572f827355f8aade1949d04025.mpf_cache
+2025-03-14 23:19:54,813 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev6
+2025-03-14 23:19:54,814 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-03-14-23-19-54-mpf-BERNIE.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': None, 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\User\\Desktop\\fast_homebrew_godot_v2\\fast_homebrew_godot_v2\\logs\\2025-03-14-23-19-54-mpf-BERNIE.log'}
+2025-03-14 23:19:54,814 : INFO : Machine : MPF path: C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf
+2025-03-14 23:19:54,814 : INFO : Machine : Machine path: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2
+2025-03-14 23:19:54,814 : INFO : Machine : Platform: win32
+2025-03-14 23:19:54,814 : INFO : Machine : Python executable location: C:\Users\User\AppData\Local\Programs\Python\Python312\python.exe
+2025-03-14 23:19:54,814 : INFO : Machine : Python version: 3.12.3 (64-bit)
+2025-03-14 23:19:54,818 : INFO : Machine : Initializing MPF...
+2025-03-14 23:19:55,036 : INFO : FAST : Auto-detecting ports for the following connections: ['net']
+2025-03-14 23:19:55,087 : INFO : FAST : Detected NET on port COM5
+2025-03-14 23:19:55,199 : INFO : FAST [NET] : Trying to connect to COM5 at 921600bps
+2025-03-14 23:19:55,210 : INFO : FAST [NET] : Connected to COM5 at 921600bps
+2025-03-14 23:19:55,228 : INFO : FAST [NET] : Connected to FP-CPU-2000 with firmware v02.26
+2025-03-14 23:19:55,260 : INFO : FAST [NET] : Registered I/O Board 0: Model: FP-I/O-3208, Firmware: 01.10, Switches: 32, Drivers: 8
+2025-03-14 23:19:55,262 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,320 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,321 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev6', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,321 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev6, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,322 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.3', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.22631-SP0', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.22631', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\User\\Desktop\\fast_homebrew_godot_v2\\fast_homebrew_godot_v2\\logs\\2025-03-14-23-19-54-mpf-BERNIE.log', 'prev_value': None, 'change': True}
+2025-03-14 23:19:55,558 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-03-14 23:19:58,040 : INFO : SwitchController : <<<<<<< 's_trough_ball_jam' active >>>>>>>
+2025-03-14 23:19:58,040 : INFO : SwitchController : <<<<<<< 's_trough_ball_1' active >>>>>>>
+2025-03-14 23:19:58,041 : INFO : SwitchController : <<<<<<< 's_flipper_right' active >>>>>>>
+2025-03-14 23:19:58,041 : INFO : SwitchController : <<<<<<< 's_eject_confirm' active >>>>>>>
+2025-03-14 23:19:58,041 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-03-14 23:19:58,042 : INFO : SwitchController : Found active switch: (6, [FAST Platform Interface]) <switch.s_trough_ball_jam>
+2025-03-14 23:19:58,042 : INFO : SwitchController : Found active switch: (0, [FAST Platform Interface]) <switch.s_trough_ball_1>
+2025-03-14 23:19:58,042 : INFO : SwitchController : Found active switch: (31, [FAST Platform Interface]) <switch.s_flipper_right>
+2025-03-14 23:19:58,043 : INFO : SwitchController : Found active switch: (21, [FAST Platform Interface]) <switch.s_eject_confirm>
+2025-03-14 23:19:58,080 : INFO : Machine : Starting the main run loop with active modes: []
+2025-03-14 23:19:58,081 : WARNING : Machine : Attract mode is not active, game will not be playable. Please check your attract mode configuration.
+2025-03-14 23:19:58,081 : INFO : Machine : Shutting down...
+2025-03-14 23:19:58,081 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-03-14 23:19:59,212 : INFO : root : MPF run loop ended.

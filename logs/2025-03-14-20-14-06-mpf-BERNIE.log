@@ -1,0 +1,6 @@
+2025-03-14 20:14:06,831 : INFO : root : Loading config.
+2025-03-14 20:14:06,840 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-03-14 20:14:06,841 : WARNING : ConfigProcessor : Config file in cache changed: C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\config.yaml
+2025-03-14 20:14:06,841 : INFO : ConfigProcessor : Loading config from file C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-03-14 20:14:06,874 : INFO : ConfigProcessor : Loading config: C:\Users\User\AppData\Local\Programs\Python\Python312\Lib\site-packages\mpf\mpfconfig.yaml
+2025-03-14 20:14:06,875 : INFO : ConfigProcessor : Loading config from file C:\Users\User\Desktop\fast_homebrew_godot_v2\fast_homebrew_godot_v2\config\config.yaml.

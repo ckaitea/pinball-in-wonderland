@@ -1,0 +1,14 @@
+#config_version=6
+#base mode config file
+mode:
+    start_events: ball_started
+    priority: 100
+    
+slide_player:
+  mode_base_started:
+    base:
+        action: play
+        
+
+    attract:
+        action: remove
